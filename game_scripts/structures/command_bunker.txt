@@ -32,7 +32,7 @@
 		
 		
 		"extract_interval" 			"5.0"		// Length of time in seconds before we hand out more resources
-		"extract_amt"				"100"		// Amount of resources to give in each extraction	
+		"extract_amt"				"150"		// Amount of resources to give in each extraction	
 		
 		"decloak_radius"			"1000"	
 		
