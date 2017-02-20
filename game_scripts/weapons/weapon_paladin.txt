@@ -35,7 +35,7 @@
 			"weapon_overrides"
 			{
 				"damage_multiplier"	"0.75"
-				"exo_multiplier"	"4"
+				"exo_multiplier"	"4.3"
 			}
 		}
 		"clip_compression_1"
