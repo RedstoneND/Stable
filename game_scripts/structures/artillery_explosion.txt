@@ -25,7 +25,7 @@
 			"reload_time" 			"1.0"	// reload time between every round fire
 			"full_reload_time" 		"8.0"	// reload time between full fire
 			"round_velocity" 		"1000.0" // units / secs
-			"artillery_precision" 		"800.0" // The more it is higher, the unprecise it'll be.
+			"artillery_precision" 		"700.0" // The more it is higher, the unprecise it'll be.
 
 			"round_count" 			"3"
 			"damage" 			"115"
