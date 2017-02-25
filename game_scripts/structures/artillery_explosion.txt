@@ -22,13 +22,13 @@
 		
 		"artillery"
 		{
-			"reload_time" 			"1.0"	// reload time between every round fire
-			"full_reload_time" 		"8.0"	// reload time between full fire
+			"reload_time" 			"0.6"	// reload time between every round fire
+			"full_reload_time" 		"12.0"	// reload time between full fire
 			"round_velocity" 		"1000.0" // units / secs
-			"artillery_precision" 		"700.0" // The more it is higher, the unprecise it'll be.
+			"artillery_precision" 		"835.0" // The more it is higher, the unprecise it'll be.
 
-			"round_count" 			"3"
-			"damage" 			"115"
+			"round_count" 			"5"
+			"damage" 			"69"
 			
 			"cycle_count"			"1"	// Times to cycle fire, reload per fire command from commander
 		}
