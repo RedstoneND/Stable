@@ -34,6 +34,11 @@ PlayerClassDatafile
 	"emp_min_hinder_time"	"2"
 	"emp_max_hinder_time"	"5"
 	"kinetic_field_cooldown"	"10"
+	
+	// Tactical Regen Properties
+	"tac_regen_amount_per_interval" 	"1"
+	"tac_regen_interval"	"0.4"
+	"tac_regen_time_since_damaged"	"10"
 
 	// Movement
 	"RunSpeed"		"220"

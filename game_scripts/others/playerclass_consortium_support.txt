@@ -32,6 +32,11 @@ PlayerClassDatafile
 	"SprintSpeed"		"360"
 	"ProneSpeed"		"70"
 	"IronsightSpeed"	"60"
+	
+	// Tactical Regen Properties
+	"tac_regen_amount_per_interval" 	"1"
+	"tac_regen_interval"	"0.55"
+	"tac_regen_time_since_damaged"	"10"
 
 	// View Hight
 	"StandingViewHeight" 	"68"
