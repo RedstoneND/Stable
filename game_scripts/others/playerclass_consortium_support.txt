@@ -137,6 +137,7 @@ PlayerClassDatafile
 				"item"		"weapon_p900"
 				"item"		"weapon_repair_tool"
 				"item"		"weapon_emp_grenade"
+				"item"		"weapon_frag_grenade"
 				"item"		"weapon_ammopack"
 				"primary"	"weapon_shotgun"
 			}
