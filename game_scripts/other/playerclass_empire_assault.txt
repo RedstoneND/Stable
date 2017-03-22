@@ -37,7 +37,7 @@ PlayerClassDatafile
 	
 	// Tactical Regen Properties
 	"tac_regen_amount_per_interval" 	"1"
-	"tac_regen_interval"	"0.4"
+	"tac_regen_interval"	"0.35"
 	"tac_regen_time_since_damaged"	"10"
 
 	// Movement
