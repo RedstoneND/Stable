@@ -47,7 +47,7 @@
 	{
 		"model"		"models/rts_structures/rts_bunker/rts_bunker_ct.mdl"
 
-		"power_supply"		"950"
+		"power_supply"		"1100"
 
 		"ambient_sounds"
 		{
@@ -393,7 +393,7 @@
 	{
 		"model"		"models/rts_structures/rts_bunker/rts_bunker_emp_part1.mdl"
 
-		"power_supply"		"1250"
+		"power_supply"		"1400"
 
 		"ambient_sounds"
 		{

@@ -3,7 +3,7 @@
 	"shared"
 	{
 		// POWER
-		"power_use"		"500"
+		"power_use"		"650"
 		"power_supply"		"0"
 		"power_radius"		"0"
 
