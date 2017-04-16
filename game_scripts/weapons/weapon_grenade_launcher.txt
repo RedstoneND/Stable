@@ -64,7 +64,7 @@ WeaponData
 		{
 			"weapon_overrides"
 			{
-				"damage_multiplier"	"1.2"
+				"damage_multiplier"	"1.15"
 			}
 		}
 //		"silencer"
@@ -144,9 +144,9 @@ WeaponData
 
 	"player_speed_modifier"		"0.95"
 
-	"damage"			"110"
+	"damage"			"115"
 
-	"damage_factor"			"2.8"
+	"damage_factor"			"2.835"
 	"effective_range"		"3500"
 
 	//-----------------------------------------------------------------------------
