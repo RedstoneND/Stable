@@ -6,5 +6,5 @@
 	
 	"extract_delay"				"0.0"
 	
-	"trickle_multiplier"		"0.47"		// Percentage of extract amount to give when we are "out" of resources
+	"trickle_multiplier"		"0.45"		// Percentage of extract amount to give when we are "out" of resources
 }
