@@ -124,7 +124,7 @@
 	// Bullet Info
 	//-----------------------------------------------------------------------------
 	"clip_size"				"5"
-	"default_clip"				"20"
+	"default_clip"				"15"
 	"primary_ammo"				"x01"
 	"secondary_ammo"			"None"
 	"damage"				"20"	// extra damage in the explosion, down below in the X01 values

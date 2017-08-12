@@ -126,7 +126,7 @@
 	// Bullet Info
 	//-----------------------------------------------------------------------------
 	"clip_size"				"3"
-	"default_clip"				"12"
+	"default_clip"				"9"
 	"primary_ammo"				"m95"
 	"secondary_ammo"			"None"
 	"damage"				"115"		// Deal this much damage in the centre of radius
