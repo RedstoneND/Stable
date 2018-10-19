@@ -169,7 +169,8 @@ PlayerClassDatafile
 			{
 				"item"		"weapon_psg"
 				"item"		"weapon_p900"
-				"item"		"weapon_frag_grenade"	
+				"item"		"weapon_frag_grenade"
+				"item"		"weapon_daisycutter"				
 				"primary"	"weapon_psg"
 			}
 

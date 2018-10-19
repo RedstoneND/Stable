@@ -163,6 +163,7 @@ PlayerClassDatafile
 				"item"		"weapon_paladin"
 				"item"		"weapon_p900"
 				"item"		"weapon_frag_grenade"
+				"item"		"weapon_daisycutter"
 				"primary"	"weapon_paladin"
 			}
 
