@@ -49,7 +49,7 @@
 			{
 				"clip_size"		"15"
 				"default_clip"		"60"
-				"damage_multiplier"	"0.85"
+				"damage_multiplier"	"0.87"
 			}
 		}
 		"adv_munitions_1"
@@ -130,7 +130,7 @@
 			"weapon_overrides"
 			{
 				"TimeReload"		"0.0"
-				"damage_multiplier"	"0.5"
+				"damage_multiplier"	"0.55"
 				"damage_factor"		"0.15"
 			}
 		}
