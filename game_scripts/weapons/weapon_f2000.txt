@@ -32,7 +32,7 @@
 			
 			"weapon_overrides"
 			{
-				"damage_multiplier"	"0.75"
+				"damage_multiplier"	"0.8"
 				"exo_multiplier"	"2"
 				"damage_factor"		"0.2"
 			}
