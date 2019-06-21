@@ -30,26 +30,21 @@
 		{
 			"weapon_overrides"
 			{
-				"damage_multiplier"	"0.75"
-				"exo_multiplier"	"2"
+				"default_clip"		"60"
 			}
 		}
 		"clip_compression_1"
 		{
 			"weapon_overrides"
 			{
-				"clip_size"		"13"
-				"default_clip"		"52"
-				"damage_multiplier"	"0.95"
+				"default_clip"		"60"
 			}
 		}
 		"clip_compression_2"
 		{
 			"weapon_overrides"
 			{
-				"clip_size"		"15"
-				"default_clip"		"60"
-				"damage_multiplier"	"0.87"
+				"default_clip"		"72"
 			}
 		}
 		"adv_munitions_1"
