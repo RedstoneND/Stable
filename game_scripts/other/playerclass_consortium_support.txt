@@ -138,6 +138,7 @@ PlayerClassDatafile
 				"item"		"weapon_repair_tool"
 				"item"		"weapon_emp_grenade"
 				"item"		"weapon_ammopack"
+				"item"		"weapon_daisycutter"
 				"primary"	"weapon_shotgun"
 			}
 
