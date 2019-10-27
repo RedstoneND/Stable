@@ -171,7 +171,7 @@
 	"cof_modifier_crouched"			"0.6"
 	"cof_modifier_running"			"1.5"
 	"cof_modifier_standing"			"0.75"
-	"cof_modifier_jumping"			"10"
+	"cof_modifier_jumping"			"4"
 	"cof_modifier_suit_lockdown" 		"0.75"
 	
 	"time_to_penalty_cap"			"5"
