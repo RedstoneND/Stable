@@ -9,7 +9,7 @@
 		"commander_can_power_down"	"1"
 
 		"buildcost"		"2500"
-		"hitpoints"		"2100"
+		"hitpoints"		"2250"
 		"cap"			"999"
 
 		"shield"

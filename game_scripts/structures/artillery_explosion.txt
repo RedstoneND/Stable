@@ -3,7 +3,7 @@
 	"shared"
 	{
 		"buildcost"		"3000"
-		"hitpoints"		"2100"
+		"hitpoints"		"2250"
 		"cap"			"999"
 		
 		"power_supply"		"0"

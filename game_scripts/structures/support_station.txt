@@ -11,7 +11,7 @@
 		"can_user_build"	"1"
 
 		"buildcost"		"1500"
-		"hitpoints"		"1350"
+		"hitpoints"		"1450"
 		"cap"			"999"
 		
 		"shield"

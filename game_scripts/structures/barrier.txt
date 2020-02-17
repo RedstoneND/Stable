@@ -13,7 +13,7 @@
 		"can_user_build"	"1"
 
 		"buildcost"		"1250"
-		"hitpoints"		"3000"
+		"hitpoints"		"3500"
 		"cap"			"999"
 
 		"sightradius"		"0"
