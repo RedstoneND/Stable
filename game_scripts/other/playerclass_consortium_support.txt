@@ -169,7 +169,7 @@ PlayerClassDatafile
 			}
 			
 			// Health Override
-			"health" 		"180"
+			"health" 		"170"
 
 			// Movement
 			"RunSpeed"		"220"
