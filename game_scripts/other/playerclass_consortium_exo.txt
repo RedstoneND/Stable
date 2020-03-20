@@ -24,7 +24,7 @@ PlayerClassDatafile
 	
 	"description" "#ND_Exo_Description"
 	
-	"health" 		"420"
+	"health" 		"450"
 	"emp_min_hinder_time"	"3"
 	"emp_max_hinder_time"	"8"
 
