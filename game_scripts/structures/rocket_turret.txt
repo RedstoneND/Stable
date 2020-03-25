@@ -8,7 +8,7 @@
 		"power_radius"		"0"
 		"commander_can_power_down"	"1"
 
-		"buildcost"		"3850"
+		"buildcost"		"4000"
 		"hitpoints"		"2250"
 		"cap"			"999"
 
