@@ -175,9 +175,6 @@ PlayerClassDatafile
 				"advanced_kits"		{}
 			}
 			
-			// Health Override
-			"health" 		"170"
-
 			// Movement
 			"RunSpeed"		"220"
 			"SprintSpeed"		"330"
