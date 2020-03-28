@@ -258,9 +258,9 @@
 		"crate_unpack_model"		"models/rts_structures/rts_packcrate/rts_packcrate_emp_unpack.mdl"
 		"crate_unpack_sequence"	"unpack"
 		
-		"damage" "50"
-		"fire_interval"	"0.125"
-		"reload_time"	"1.25"
+		"damage" "75"
+		"fire_interval"	"0.2"
+		"reload_time"	"2.0"
 		"exo_multiplier"	"2.0"
 		"damage_factor"		"1.0"
 	
