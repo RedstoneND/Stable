@@ -32,7 +32,7 @@ WeaponData
 			
 			"weapon_overrides"
 			{
-				"damage"			"30"
+				"damage"			"20"
 			}
 		}
 		
@@ -74,14 +74,14 @@ WeaponData
 
 	"weight"				"1"
 	"item_flags"			"18"	// ITEM_FLAG_NOAUTORELOAD | ITEM_FLAG_EXHAUSTIBLE
-	"damage"			"25"
+	"damage"			"15"
 	
 	"exo_multiplier" "3.0"
 	
 	"grenade_fuse_time"		"3"		// Time before exploding, after the pin is pulled
 	"grenade_warmup_time"	"1"		// After exploding, time it takes before doing damage. Needs to be synced with the particle effect.
-	"grenade_hide_time"		"8"	// After exploding, time before hiding the grenade model.
-	"grenade_remove_time"	"8"	// After exploding, time it takes before removing the grenade entity, stopping any damage.
+	"grenade_hide_time"		"15"	// After exploding, time before hiding the grenade model.
+	"grenade_remove_time"	"16"	// After exploding, time it takes before removing the grenade entity, stopping any damage.
 
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	SoundData
